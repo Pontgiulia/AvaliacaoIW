@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(107, 166, 221);
+}
+
+header{
+    background-color: rgb(230, 200, 118);
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+.banner{
+    width: 100%;
+}
+
+.container{
+    width: 80%;
+    background-color: rgb(230, 200, 118);
+    width: auto;
+}
+footer{
+    background-color: rgb(230, 200, 118);
+}
